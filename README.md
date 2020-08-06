@@ -13,7 +13,7 @@ Memory  | 1 GB RAM
 Shipped Android Version | 5.0
 Storage | 8 GB
 MicroSD | Up to 32 GB
-Battery | Li-Ion 2930mAh battery
+Battery | Li-Ion 2390mAh battery
 Display | 540 x 960 pixels, 4.5 inches (~245 ppi pixel density)
 Camera  | 5 MP, 2592 х 1944 pixels, autofocus
 
