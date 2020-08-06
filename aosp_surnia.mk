@@ -21,7 +21,7 @@ TARGET_SCREEN_HEIGHT := 960
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := surnia
-PRODUCT_NAME := lineage_surnia
+PRODUCT_NAME := aosp_surnia
 PRODUCT_MODEL := Moto E LTE
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
